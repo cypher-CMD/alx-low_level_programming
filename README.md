@@ -1,2 +1,1 @@
-# alx-low_level_programming
-First repo on C programming language
+# 0x1E. C - Search Algorithms
